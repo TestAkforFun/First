@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [TestS2]">
+  <test name="Command line test eeeb03da-291e-40a5-a046-ed1cd3357f9e(failed)">
+    <classes>
+      <class name="TestS2">
+        <methods>
+          <include name="clearCookies"/>
+          <include name="testSuite2"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestS2 -->
+    </classes>
+  </test> <!-- Command line test eeeb03da-291e-40a5-a046-ed1cd3357f9e(failed) -->
+</suite> <!-- Failed suite [TestS2] -->

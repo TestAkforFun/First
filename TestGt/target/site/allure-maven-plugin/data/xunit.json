@@ -1,0 +1,68 @@
+{
+  "time" : {
+    "start" : 1437404370695,
+    "stop" : 1437404519063,
+    "duration" : 148368
+  },
+  "testSuites" : [ {
+    "uid" : "8d7f1565a93cb03d",
+    "name" : "TestS1 : Command line test 40f23b9f-376f-4c66-aabd-0c892d422266",
+    "title" : "TestS1 : Command line test 40f23b9f-376f-4c66-aabd-0c892d422266",
+    "time" : {
+      "start" : 1437404370695,
+      "stop" : 1437404411916,
+      "duration" : 41221
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "ee89fc9dc462e5ac",
+      "name" : "testSuite1",
+      "title" : "Test suite 1",
+      "time" : {
+        "start" : 1437404370695,
+        "stop" : 1437404411916,
+        "duration" : 41221
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "7684fd7d036802da",
+    "name" : "TestS2 : Command line test eeeb03da-291e-40a5-a046-ed1cd3357f9e",
+    "title" : "TestS2 : Command line test eeeb03da-291e-40a5-a046-ed1cd3357f9e",
+    "time" : {
+      "start" : 1437404480173,
+      "stop" : 1437404519063,
+      "duration" : 38890
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 0,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 1,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "cab05f2739c2e88b",
+      "name" : "testSuite2",
+      "title" : "Test suite 2",
+      "time" : {
+        "start" : 1437404480173,
+        "stop" : 1437404519063,
+        "duration" : 38890
+      },
+      "severity" : "NORMAL",
+      "status" : "FAILED"
+    } ]
+  } ]
+}

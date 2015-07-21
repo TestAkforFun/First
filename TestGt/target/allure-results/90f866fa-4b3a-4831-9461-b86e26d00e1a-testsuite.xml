@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1437404273092" stop="1437404425194" version="1.4.10">
+    <name>TestS1 : Command line test 40f23b9f-376f-4c66-aabd-0c892d422266</name>
+    <title>TestS1 : Command line test 40f23b9f-376f-4c66-aabd-0c892d422266</title>
+    <test-cases>
+        <test-case start="1437404370695" stop="1437404411916" status="passed">
+            <name>testSuite1</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC"/>
+                <label name="thread" value="12400@PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

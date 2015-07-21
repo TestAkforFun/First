@@ -1,0 +1,25 @@
+{
+  "testCases" : [ {
+    "uid" : "ee89fc9dc462e5ac",
+    "name" : "testSuite1",
+    "title" : "Test suite 1",
+    "time" : {
+      "start" : 1437404370695,
+      "stop" : 1437404411916,
+      "duration" : 41221
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "cab05f2739c2e88b",
+    "name" : "testSuite2",
+    "title" : "Test suite 2",
+    "time" : {
+      "start" : 1437404480173,
+      "stop" : 1437404519063,
+      "duration" : 38890
+    },
+    "severity" : "NORMAL",
+    "status" : "FAILED"
+  } ]
+}
